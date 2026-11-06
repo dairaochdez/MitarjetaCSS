@@ -1,0 +1,109 @@
+body {
+    background-color: #e5e8ef;
+    font-family: Arial;
+    margin: 0;
+    padding: 40px;
+}
+
+.tarjeta {
+    background-color: white;
+    width: 550px;
+    margin: auto;
+    border: 1px solid #cccccc;
+    box-shadow: 0 10px 25px #bbbbbb;
+}
+
+.header {
+    background: linear-gradient(to right, #1555a0, #2186b5);
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.header h1 {
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+
+.header h2 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+.contenido {
+    padding: 30px;
+}
+
+.descripcion {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.tags {
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #dddddd;
+    margin-bottom: 25px;
+}
+
+.contacto {
+    background-color: #fff4e4;
+    border: 1px solid #ffd49a;
+    padding: 20px;
+    color: #633e13;
+}
+
+.contacto h2 {
+    margin-top: 0;
+}
+
+.contacto p {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #dddddd;
+}
+.footer button {
+    background-color: #1555a0;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.header img {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    object-fit: cover;
+}
+
+
+
+
+
+.footer p {
+    color: #666666;
+    font-size: 15px;
+}
+
+.tags span {
+    display: inline-block;
+    background-color: #e1edff;
+    color: #2867b2;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #b8d5ff;
+}
